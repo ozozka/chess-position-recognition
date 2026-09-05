@@ -15,7 +15,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "ruff>=0.15.13",
+    "ruff>=0.15.19",
     "ty>=0.0.39",
 ]
 docs = ["zensical>=0.0.46"]
