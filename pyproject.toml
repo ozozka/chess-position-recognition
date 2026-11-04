@@ -18,7 +18,7 @@ dev = [
     "ruff>=0.16.10",
     "ty>=0.0.91",
 ]
-docs = ["zensical>=0.0.71"]
+docs = ["zensical>=0.0.73"]
 
 [tool.ruff]
 line-length = 120
